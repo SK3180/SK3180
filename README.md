@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sachin
+- 👀 I’m interested in Web Dev , App Development.
+- 🌱 I’m currently learning C++,App dev.
+- 💞️ I’m looking to collaborate on Web Dev Projects OR Idea Projects.
+- 📫 How to reach me through mail - sachin318031@gmail.com.
