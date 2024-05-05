@@ -2,8 +2,13 @@
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👋 Hi, I’m Sachin
-- 👀 I’m interested in Web Dev , App Development.
-- 🌱 I’m currently learning C++,App dev.
-- 💞️ I’m looking to collaborate on Web Dev Projects OR Idea Projects.
-- 📫 Reach me through mail - sachin318031@gmail.com.
+- 👋 Hi, I’m Sachin ,
+  An Android developer passionate about crafting innovative mobile experiences.
+- 👀 I'm interested in Android app development, specifically with Kotlin and Jetpack Compose,
+- 🌱 Currently, I'm honing my skills in kotlin and exploring app development concepts.
+- 💼 I'm actively seeking internships or job opportunities in Android development roles where I can contribute my expertise and learn from dynamic teams.
+- 💡 I'm eager to collaborate on exciting Android projects or exchange innovative ideas.
+- 📫 Reach out to me via email at sachin318031@gmail.com to discuss potential collaborations or opportunities.
+
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-singh-2999a2240/)
