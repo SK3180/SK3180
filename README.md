@@ -12,4 +12,4 @@
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-singh-2999a2240/)
- [![Portfolio](https://www.pexels.com/photo/portfolio-text-on-pink-background-14936129/)](https://ivory-jackal-472841.builder-preview.com/)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ivory-jackal-472841.builder-preview.com/)
