@@ -12,6 +12,15 @@
 - 💡 I'm eager to collaborate on exciting Android projects or exchange innovative ideas.
 - 📫 Reach out to me via email at sachin318031@gmail.com to discuss potential collaborations or opportunities.
 
+
+<h3 align="left">## 🌐 Stats:</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SK3180&show_icons=true&include_all_commits=true&locale=en" alt="SK3180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SK3180&" alt="SK3180" />
+</div>
+
+
+
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-singh-2999a2240/)
  [![Portfolio](https://img.shields.io/badge/Portfolio-18b801?style=for-the-badge&logo=Portfolio&logoColor=white)](https://ivory-jackal-472841.builder-preview.com/)
